@@ -1,4 +1,4 @@
-function clear_greet -w clear
+function cgreet -w clear
 	command clear
 	eval fish_greeting
 end
