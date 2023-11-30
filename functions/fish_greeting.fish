@@ -1,6 +1,6 @@
 function fish_greeting
-	set -l logo_hl (set_color $TIREA_COLOR_BASE02)
-	set -l text_hl (set_color $TIREA_COLOR_BASE11)
+	set -l logo_hl (set_color $TIREA_COLOR_BASE11)
+	set -l text_hl (set_color $TIREA_COLOR_BASE15)
 	set -l normal (set_color normal)
 	echo "$logo_hl
         ⣀⣀⣀⣀⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢴⣤⣄⠀⠀⠀⠀⠀⢀⣤⣶⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣀⣀⣀⡀⠀⠀⠀⠀    
